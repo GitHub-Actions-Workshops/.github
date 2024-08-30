@@ -1,0 +1,13 @@
+{ 
+    "name": "Murciszyn", 
+    "description": "Oto opis workflowa",
+    "iconName": "https://github.com/github-starter-workflows/repo-analysis-partner/blob/main/tech_stacks.yml",
+    "categories": [
+      "Go" 
+    ], 
+    "filePatterns": [  
+        "package.json$", 
+        "^Dockerfile", 
+        ".*\\.md$" 
+    ]
+}
